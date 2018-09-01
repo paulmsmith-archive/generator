@@ -59,6 +59,7 @@
     "lodash": "^4.17.4",
     "marked": "^0.3.9",
     "node-sass-glob-importer": "^5.0.3",
+    "normalize-scss": "^7.0.1",
     "nunjucks-markdown": "^2.0.1",
     "require-dir": "^0.3.2",
     "run-sequence": "^2.2.0"
