@@ -27,7 +27,7 @@
     "babel-core": "^6.26.0",
     "babel-preset-airbnb": "^2.4.0",
     "babel-register": "^6.26.0",
-    "browser-sync": "^2.23.3",
+    "browser-sync": "^2.26.3",
     "del": "^3.0.0",
     "eslint": "^4.13.1",
     "eslint-config-airbnb": "^16.1.0",
